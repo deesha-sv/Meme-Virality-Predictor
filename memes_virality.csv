@@ -1,0 +1,51 @@
+id,date,caption,caption_length,image_type,emoji_count,hashtags_count,colors_bright,likes,shares,platform
+1,2025-12-28,"😂 When you finally understand regex",28,reaction,3,0,high,1250,890,reddit
+2,2025-12-27,"Monday vibes ☕😴 #work",14,text_overlay,2,1,medium,980,650,instagram
+3,2025-12-26,"Me trying to adult 💀",17,reaction,1,0,low,2100,1450,twitter
+4,2025-12-25,"When the code works first try ✨",26,celebration,2,0,high,3200,2800,reddit
+5,2025-12-24,"Diet starts tomorrow 🍕😂",20,food,2,0,medium,890,520,instagram
+6,2025-12-23,"When boss calls on weekend 📱😡",22,reaction,2,0,high,1670,1120,twitter
+7,2025-12-22,"Coffee before code ☕💻",15,text_overlay,2,0,medium,1450,980,reddit
+8,2025-12-21,"Adulting level: expert 🧠",18,celebration,1,0,low,2300,1650,instagram
+9,2025-12-20,"Me vs alarm clock 🛌⏰",15,reaction,2,0,high,1890,1340,twitter
+10,2025-12-19,"When you finish portfolio 🎉",22,celebration,3,1,high,4100,3500,reddit
+11,2025-12-18,"Gym membership collecting dust 🏋️",25,reaction,1,0,medium,760,450,instagram
+12,2025-12-17,"Python vs JavaScript 🐍⚡",17,text_overlay,2,0,high,1980,1420,twitter
+13,2025-12-16,"Me studying for interviews 📚😴",21,reaction,2,0,low,1340,890,reddit
+14,2025-12-15,"When recruiter ghosts you 👻",20,reaction,1,0,high,2560,1980,instagram
+15,2025-12-14,"SQL joins be like 🤯",13,text_overlay,1,0,medium,1670,1120,twitter
+16,2025-12-13,"Friday feeling 🎉🍻",13,celebration,2,0,high,2890,2100,reddit
+17,2025-12-12,"Data cleaning hell 🧹😭",16,reaction,2,0,low,1780,1230,instagram
+18,2025-12-11,"Power BI dashboard flex 📊✨",19,celebration,2,1,high,3450,2870,twitter
+19,2025-12-10,"Me vs deadlines ⏳😰",13,reaction,2,0,medium,2010,1450,reddit
+20,2025-12-09,"When code deploys successfully 🚀",25,celebration,1,0,high,4320,3780,instagram
+21,2025-12-08,"Cold Galway mornings 🥶☕",17,text_overlay,2,0,low,890,560,twitter
+22,2025-12-07,"Job hunt grind 💪📈",13,celebration,1,0,medium,1670,1180,reddit
+23,2025-12-06,"Bug hunting be like 🔍🐛",16,reaction,2,0,high,2340,1670,instagram
+24,2025-12-05,"Pandas groupby magic 🪄",15,text_overlay,1,0,medium,1890,1340,twitter
+25,2025-12-04,"Interview prep vibes 📖💻",17,reaction,2,0,high,1560,1090,reddit
+26,2025-12-03,"When dataset is clean 😍",18,celebration,1,0,low,2980,2340,instagram
+27,2025-12-02,"Regex nightmare 😱",11,reaction,1,0,high,2100,1560,twitter
+28,2025-12-01,"Git commit dance 💃",13,celebration,1,0,medium,1760,1230,reddit
+29,2025-11-30,"Excel vs Python 🧮🐍",14,text_overlay,2,0,high,2430,1890,instagram
+30,2025-11-29,"Cold brew > hot coffee ❄️☕",19,text_overlay,2,0,medium,1340,890,twitter
+31,2025-11-28,"Dashboard stakeholders happy 😊📊",22,celebration,1,1,high,3670,3120,reddit
+32,2025-11-27,"Null values everywhere 😤",18,reaction,1,0,low,1980,1450,instagram
+33,2025-11-26,"Machine learning hype 🤖",16,text_overlay,1,0,high,2890,2100,twitter
+34,2025-11-25,"Weekend coding session 🎮",19,reaction,2,0,medium,1670,1120,reddit
+35,2025-11-24,"When model overfits 📈😅",17,reaction,2,0,high,2340,1780,instagram
+36,2025-11-23,"Ireland job market 🏝️💼",16,text_overlay,1,0,low,1450,980,twitter
+37,2025-11-22,"Galway rain vibes 🌧️☔",14,text_overlay,2,0,medium,1890,1340,reddit
+38,2025-11-21,"Portfolio project grind 🛠️",17,celebration,1,0,high,3560,2980,instagram
+39,2025-11-20,"ATS resume struggle 😩",15,reaction,1,0,low,2100,1560,twitter
+40,2025-11-19,"LinkedIn networking 🌐",15,text_overlay,1,1,medium,1760,1230,reddit
+41,2025-11-18,"PowerPoint presentation flex 🎨",22,celebration,1,0,high,4320,3780,instagram
+42,2025-11-17,"Cold calling recruiters 📞",18,reaction,1,0,low,1340,890,twitter
+43,2025-11-16,"Kaggle competition vibes 🏆",18,celebration,1,0,high,2890,2100,reddit
+44,2025-11-15,"Data viz critique session 👀📊",20,text_overlay,1,0,medium,1980,1450,instagram
+45,2025-11-14,"SQL window functions magic 🪄",21,text_overlay,1,0,high,2430,1890,twitter
+46,2025-11-13,"GitHub stars incoming ⭐",17,celebration,1,0,low,3670,3120,reddit
+47,2025-11-12,"Behavioral interview prep 🎭",20,reaction,1,0,medium,1560,1090,instagram
+48,2025-11-11,"Technical interview nerves 😬",19,reaction,1,0,high,2100,1560,twitter
+49,2025-11-10,"Case study presentation 🔥",21,celebration,1,0,high,4560,3980,reddit
+50,2025-11-09,"Job offer incoming? 🤞💼",16,text_overlay,1,0,medium,2890,2100,instagram
