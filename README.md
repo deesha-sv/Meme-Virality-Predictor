@@ -2,8 +2,6 @@
 
 Machine Learning model (R² = 0.27) predicting meme shares from caption length, emoji count, image type & platform. Analyzed 50 memes synthesized from real Reddit/Instagram patterns.
 
-![EDA Plots](images/eda_plots.png)
-![Feature Importance](images/feature_importance.png)
 
 ## Business Insights
 - Image type dominates virality (35% importance) - reaction images lead
